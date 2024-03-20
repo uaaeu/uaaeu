@@ -29,8 +29,8 @@ Feel free to reach out to me on GitHub or LinkedIn. I'm always open to interesti
 
 Proudly 🚀 by Musa C. Yurt
 
-[Personal Page](https://icy-ocean-0baf14c03.4.azurestaticapps.net/)
-[LinkedIn Page](https://www.linkedin.com/in/musayurt/)
+[Portfolio](https://icy-ocean-0baf14c03.4.azurestaticapps.net/)
+[LinkedIn](https://www.linkedin.com/in/musayurt/)
 <!--
 **uaaeu/uaaeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
